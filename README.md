@@ -1,14 +1,9 @@
 
 ---
-
-# 4. GitHub Bio (2–3 lines)
-
 > AI/ML Engineer specializing in NLP, LLMs, and Retrieval-Augmented Generation (RAG).  
 > Building scalable conversational AI systems using FastAPI, Transformers, and vector databases.
 
 ---
-
-# 5. GitHub Profile README (About Me)
 
 ```markdown
 ## 👋 About Me
