@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**rajeshvhanakade/rajeshvhanakade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 4. GitHub Bio (2–3 lines)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> AI/ML Engineer specializing in NLP, LLMs, and Retrieval-Augmented Generation (RAG).  
+> Building scalable conversational AI systems using FastAPI, Transformers, and vector databases.
+
+---
+
+# 5. GitHub Profile README (About Me)
+
+```markdown
+## 👋 About Me
+
+I am an AI/ML Engineer with 3+ years of experience building production-ready machine learning and Generative AI systems.
+
+My work focuses on:
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Conversational AI
+- API-driven AI services using FastAPI
+
+I enjoy designing end-to-end AI solutions — from data pipelines and model training to deployment and optimization.
+
+Tech Stack:
+Python | FastAPI | PyTorch | Transformers | FAISS | PostgreSQL | Docker | AWS
