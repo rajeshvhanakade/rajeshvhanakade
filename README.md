@@ -127,7 +127,7 @@
 <ul>
   <li><strong>Name:</strong> Rajesh Vhankade</li>
   <li><strong>Field:</strong> AI/ML Engineering — Conversational AI, Agentic AI, Generative AI, RAG</li>
-  <li><strong>GitHub:</strong> add your profile link</li>
-  <li><strong>LinkedIn:</strong> add your profile link</li>
-  <li><strong>Email:</strong> add your professional email</li>
+  <li><strong>GitHub:</strong>  https://github.com/rajeshvhanakade </li>
+  <li><strong>LinkedIn:</strong> www.linkedin.com/in/vhankaderajesh </li>
+  <li><strong>Email:</strong> rajeshvhanakade@gmail.com </li>
 </ul>
